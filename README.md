@@ -133,5 +133,5 @@ Adafruit for IoT platform
 
 ❓ Support
 
-For issues, please open an issue on GitHub. We're happy to help! 💬
+For issues, please open an issue on GitHub. I'am happy to help! 💬
 
